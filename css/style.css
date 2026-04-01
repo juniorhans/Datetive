@@ -542,18 +542,7 @@ a {
   display: none;
 }
 
-.price-tag::selection {
-  background: transparent;
-}
 
-.price-tag span {
-  position: relative;
-  z-index: 2;
-}
-
-.price-tag .tag-texture {
-  display: none;
-}
 
 .price-tag {
   background:
