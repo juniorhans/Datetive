@@ -25,7 +25,7 @@ html {
 
 
 .site-scale {
-  zoom: 0.60;
+  
  
 }
 
@@ -565,6 +565,8 @@ a {
     linear-gradient(to bottom, #d7c199, #c8ae80);
   background-size: cover;
   background-position: center;
+
+  
 }
 
 
@@ -775,3 +777,6 @@ a {
   padding: 0 14px;
   font-size: 1rem;
 }
+
+
+
